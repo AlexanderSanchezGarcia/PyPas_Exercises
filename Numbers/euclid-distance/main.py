@@ -1,6 +1,11 @@
 # E S C O M  -  I P N
 # D A A D
 # 4AV1
+# Oct 15°, 2024
+# @autor: Miguel Alexander Sanchez García
+# E S C O M  -  I P N
+# D A A D
+# 4AV1
 # 2024/10/16
 # @autor: Miguel Alexander Sanchez García
 def run(x1: float, y1: float, x2: float, y2: float) -> float:
@@ -15,3 +20,5 @@ if __name__ == '__main__':
     vendor.launch(run)
 
 # Hecho por: Miguel Sanchez
+
+# Developed by MASG
